@@ -2,7 +2,7 @@
 Mid Level DevOps with Docker, Kubernetes, Apache Airflow, AWS and Python 
 # Stack: 
 
-DevOps Engineer / Docker / Kubernetes / AWS / Apache Airflow / Fintech  
+DevOps Engineer / Docker / Kubernetes / AWS / Apache Airflow / Fintech £60 000 - £75 000
 
 # The company: 
 
